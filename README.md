@@ -1,4 +1,4 @@
-# Passos a passo seguidos para estruturação do setup Less 
+# Passos seguidos para estruturação do setup Less 
 
 Este projeto configura um ambiente básico de desenvolvimento para compilar arquivos LESS usando o Grunt e servir o resultado através de um servidor local simples.
 
