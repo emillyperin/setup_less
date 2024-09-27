@@ -1,0 +1,23 @@
+{
+    "name": "projeto-less",
+    "version": "1.0.0",
+    "description": "Projeto de exemplo para configurar LESS com Grunt",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Emily Perin",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "^1.6.1",
+        "grunt-contrib-less": "^3.0.0",
+        "grunt-contrib-watch": "^1.1.0",
+        "liftoff": "^5.0.0"
+    },
+    "keywords": [],
+    "dependencies": {
+        "grunt-cli": "^1.5.0",
+        "live-server": "^1.2.2",
+        "serve": "^14.2.3"
+    }
+}
