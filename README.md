@@ -5,7 +5,7 @@ Este projeto configura um ambiente básico de desenvolvimento para compilar arqu
 ## Estrutura do Projeto
 
 A estrutura básica de diretórios e arquivos criada para este projeto é a seguinte:
-
+```
 /meu-projeto-less 
 │ 
 ├── /src 
@@ -17,7 +17,7 @@ A estrutura básica de diretórios e arquivos criada para este projeto é a segu
 ├── Gruntfile.js # Arquivo de configuração do Grunt 
 ├── package.json # Gerenciamento de dependências e scripts npm 
 ├── index.html # Página HTML para visualização no navegador 
-
+```
 
 ## Passos para estruturação do setup LESS
 
